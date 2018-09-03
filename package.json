@@ -1,0 +1,14 @@
+{
+  "name": "countdown-css",
+  "description": "This component creates an animated countdown but with almost all of the work done in pure HTML/CSS",
+  "main": "countdown-css.js",
+  "dependencies": {
+    "@polymer/lit-element": "^0.5.2",
+    "@polymer/polymer": "^3.0.5",
+    "@webcomponents/webcomponentsjs": "^2.0.3"
+  },
+  "devDependencies": {
+    "@polymer/iron-demo-helpers": "^3.0.0-pre.19",
+    "wct-browser-legacy": "^1.0.0"
+  }
+}
