@@ -2,11 +2,13 @@
 
 This component creates an animated countdown but with almost all of the work done in pure HTML/CSS
 
-## Install the Polymer-CLI
+## Installation
 
 First, make sure you have the [Polymer CLI](https://www.npmjs.com/package/polymer-cli) and npm (packaged with [Node.js](https://nodejs.org)) installed.
 
-1. Run `npm install polymer-countdown-css`
+```
+npm install polymer-countdown-css
+```
 
 ## Usage
 
