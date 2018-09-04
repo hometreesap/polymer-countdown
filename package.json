@@ -2,7 +2,7 @@
   "name": "polymer-countdown-css",
   "description": "This component creates an animated countdown but with almost all of the work done in pure HTML/CSS",
   "main": "countdown-css.js",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "keywords": [
     "countdown",
     "component",
