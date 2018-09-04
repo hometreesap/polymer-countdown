@@ -1,7 +1,17 @@
 {
-  "name": "countdown-css",
+  "name": "@polymer/countdown-css",
   "description": "This component creates an animated countdown but with almost all of the work done in pure HTML/CSS",
   "main": "countdown-css.js",
+  "version": "1.0.2",
+  "keywords": [
+    "countdown",
+    "component",
+    "css",
+    "lit-element"
+  ],
+  "author": "Hometree Ltd.",
+  "license": "MIT",
+  "homepage": "https://github.com/hometreesap/polymer-countdown",
   "dependencies": {
     "@polymer/lit-element": "^0.5.2",
     "@polymer/polymer": "^3.0.5",
